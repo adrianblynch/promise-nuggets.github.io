@@ -12,7 +12,7 @@
     "docpad-plugin-ghpages": "~2.4.0",
     "docpad-plugin-less": "~2.2.0",
     "docpad-plugin-eco": "~2.0.2",
-    "docpad-plugin-marked": "~2.1.2",
+    "docpad-plugin-marked": "~2.6.0",
     "rss": "~0.2.1"
   },
   "main": "node_modules/docpad/bin/docpad-server",
